@@ -1,0 +1,25 @@
+body {
+    background: url(https://w.forfun.com/fetch/a7/a79c152c83d5036636e512f031cf15cb.jpeg?w=1470&r=0.5625) ;
+    background-size: cover;
+    position: absolute;
+    top: 25%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container {
+    color: rgb(4, 44, 100);
+}
+
+.card-body {
+    background-color: rgb(255, 255, 255);
+}
+
+.card-header {
+    background-color: rgb(226, 231, 232);
+}
+
